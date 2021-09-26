@@ -1,25 +1,23 @@
-# Hack Technology / Project Attempted
+# AR Foundation in Unity
 
 
-## What you built? 
+## A simple Android AR project. 
 
-TODO: Short description of what you attempted to build
+I used this hack-a-thing to learn how to develop AR for Android phones. A simple cube should appear on a table once the project is run on an Android phone. 
 
-Include some screenshots.
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+### Screenshots:
+Coming soon
 
-## Who Did What?
+## Team: 
+Gregory Macharia (solo hack-a-thing)
 
-TODO: who worked on what part?
-
-## What you learned
-
-TODO: what worked / what didn't work
+## Lessons learnt
+I learnt how to set AR Foundation and set up a simple AR scene in Unity 3D. AR Foundation is used for the development of AR apps both for android and iOS but I set up this project for Android. This allows easily changing platform of developed applications between iOS and Android without changing the scripts of the application. Great way that allows "build[ing] once deploy[ing] everywhere."
 
 ## Authors
 
-TODO: list of authors
+Gregory Macharia
 
 ## Acknowledgments
 
-TODO: cite any tutorials followed here
+https://learn.unity.com/tutorial/setting-up-ar-foundation#
